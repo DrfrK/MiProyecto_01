@@ -1,0 +1,40 @@
+/*cambiar el fondo*/
+body {
+    background-color: #465adf;
+}
+
+.contInicio {
+    background-color: rgb(130, 238, 238);
+    padding: 20px;
+    /*angostarlo*/
+    width: 50%; 
+    border-radius: 5px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.contInicio div{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+
+.btnIngreso{
+    background-color: #465adf;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    /*centrar el boton*/
+    display: block;
+    margin: auto;
+
+}
+
+.btnIngreso:hover{
+    background-color: #ffffff;
+    color: #465adf;
+    
+    
+}
